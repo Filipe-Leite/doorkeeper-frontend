@@ -1,0 +1,15 @@
+* npx create-react-app frontend --template redux-typescript
+
+* cd frontend
+
+* npm install @mui/material @emotion/react @emotion/styled
+
+* npm install @mui/icons-material
+
+npm install eslint --save-dev
+
+npm init @ eslint/config
+    choose 
+    1 - to check syntax and find problems
+    2 - javaScript modules (import/export)
+    3 - react
